@@ -1,0 +1,4 @@
+nome,cpf,email,endereco,cep
+Ana Silva,123.456.789-00,ana.silva@example.com,Rua A,12345-678
+Carlos Oliveira,987.654.321-00,carlos.oliveira@example.com,Avenida B,54321-876
+Mariana Souza,456.789.123-00,mariana.souza@example.com,Travessa C,98765-432
